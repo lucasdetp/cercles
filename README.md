@@ -1,7 +1,24 @@
-# cercles
+# circle
 
-En Javascript vanilla, sans utiliser les canvas.
-Afficher un nombre aléatoire de cercles.
-Chaque cercle a une taille aléatoire comprise entre 2 bornes.
-Chaque cercle reste affiché un temps aléatoire.
-Il y a tout le temps le même nombre de cercles d’affiché.
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
