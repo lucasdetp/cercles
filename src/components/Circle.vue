@@ -8,9 +8,6 @@
 export default {
     name: 'Circle',
     props: ['backgroundColor', 'taille', 'top', 'left'],
-    created() {
-        console.log(this.backgroundColor);
-    },
     computed: {
         circleStyle() {
             return `width: ${this.taille}; height: ${this.taille};
